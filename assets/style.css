@@ -1,0 +1,16 @@
+
+#toplevel_page_wce-close-shop-store .menu-icon-generic div.wp-menu-image {
+	background-image: url('menu.png');
+    background-position: 0px -34px;
+}
+#toplevel_page_wce-close-shop-store .menu-icon-generic:hover div.wp-menu-image {
+	background-image: url('menu.png');
+    background-position: 0px -4px;
+}
+#wce-form-wrapper {
+	background-color: #CFC;
+	padding-left: 30px;
+}
+td .mceIframeContainer {
+	background-color: #FFF;
+}
